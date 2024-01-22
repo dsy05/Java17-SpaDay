@@ -1,5 +1,6 @@
 body {
     background-color: pink;
+    font-family: "Quicksand", sans-serif;
 }
 
 div {
@@ -16,6 +17,10 @@ h1 {
         padding: 10px;
         text-align: center;
         background-color: white;
+}
+
+h1 , h2 {
+    font-family: "Sansita Swashed", system-ui;
 }
 
 table {
